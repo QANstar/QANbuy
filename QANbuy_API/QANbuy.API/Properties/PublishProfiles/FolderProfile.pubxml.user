@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\QAN_Program\WebApi\QANbuy_API\QANbuy.API\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-02-22T14:24:55.7656823Z;True|2022-02-17T19:03:40.4657194+08:00;True|2022-02-15T11:47:52.9097865+08:00;True|2022-02-05T20:05:31.4982030+08:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=139.224.221.148%3bInitial Catalog=QANbuy_DB%3bPersist Security Info=True%3bUser ID=QANstar%3bPassword=Fa473184520403</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

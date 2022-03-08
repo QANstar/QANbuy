@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ecc02554-cdb5-4eac-9765-27aa6ad2bed1": {
+      "ProjectGuid": "ecc02554-cdb5-4eac-9765-27aa6ad2bed1",
+      "DisplayName": "QANbuy.API",
+      "ColorIndex": 0
+    },
+    "75189344-2e06-481a-829f-94e11f3a657d": {
+      "ProjectGuid": "75189344-2e06-481a-829f-94e11f3a657d",
+      "DisplayName": "QANbuy.Entity",
+      "ColorIndex": 1
+    },
+    "d82ff7e1-0d76-4f84-bf5f-db2abf9e702f": {
+      "ProjectGuid": "d82ff7e1-0d76-4f84-bf5f-db2abf9e702f",
+      "DisplayName": "QANbuy.Model",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

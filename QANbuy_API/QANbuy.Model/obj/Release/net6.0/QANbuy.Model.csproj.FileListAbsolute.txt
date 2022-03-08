@@ -1,0 +1,12 @@
+D:\QAN_Program\WebApi\QANbuy_API\QANbuy.Model\bin\Release\net6.0\QANbuy.Model.deps.json
+D:\QAN_Program\WebApi\QANbuy_API\QANbuy.Model\bin\Release\net6.0\QANbuy.Model.dll
+D:\QAN_Program\WebApi\QANbuy_API\QANbuy.Model\bin\Release\net6.0\ref\QANbuy.Model.dll
+D:\QAN_Program\WebApi\QANbuy_API\QANbuy.Model\bin\Release\net6.0\QANbuy.Model.pdb
+D:\QAN_Program\WebApi\QANbuy_API\QANbuy.Model\obj\Release\net6.0\QANbuy.Model.csproj.AssemblyReference.cache
+D:\QAN_Program\WebApi\QANbuy_API\QANbuy.Model\obj\Release\net6.0\QANbuy.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\QAN_Program\WebApi\QANbuy_API\QANbuy.Model\obj\Release\net6.0\QANbuy.Model.AssemblyInfoInputs.cache
+D:\QAN_Program\WebApi\QANbuy_API\QANbuy.Model\obj\Release\net6.0\QANbuy.Model.AssemblyInfo.cs
+D:\QAN_Program\WebApi\QANbuy_API\QANbuy.Model\obj\Release\net6.0\QANbuy.Model.csproj.CoreCompileInputs.cache
+D:\QAN_Program\WebApi\QANbuy_API\QANbuy.Model\obj\Release\net6.0\QANbuy.Model.dll
+D:\QAN_Program\WebApi\QANbuy_API\QANbuy.Model\obj\Release\net6.0\ref\QANbuy.Model.dll
+D:\QAN_Program\WebApi\QANbuy_API\QANbuy.Model\obj\Release\net6.0\QANbuy.Model.pdb

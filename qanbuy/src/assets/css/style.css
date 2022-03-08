@@ -1,0 +1,66 @@
+html,body{
+  margin: 0px;
+  background: #f6f7f8;
+}
+
+.LogBox input {
+    background-color: transparent;
+    color: #fff;
+}
+
+.LogBox .el-input__inner::placeholder {
+color: #fff;
+}
+
+.goodPicCho .el-upload-dragger{
+    width: 200px !important;
+    height: 200px !important;
+  }
+
+
+
+.pagination{
+    margin-top: 20px;
+    float: right;
+  }
+
+  .centerContent{
+    max-width: 1360px;
+    margin: 0 auto;
+    /* background-color: #fff; */
+    padding: 20px;
+  }
+
+  .mainContent{
+    padding: 0px;
+    padding-top: 60px;
+  }
+
+  .carousel .el-carousel__container{
+    height: 500px;
+  }
+
+  ul{
+    list-style-type: none;
+}
+
+.avatar{
+  padding-right: 20px;
+  cursor: pointer;
+}
+
+.logForm{
+  padding: 0 25px;
+}
+
+.logDialog .el-dialog{
+  border-radius: 20px;
+   
+}
+
+.tabs {
+  background: #fff;
+  padding: 10px 10px 0 10px;
+  border-radius: 8px;
+  margin: 15px 0;
+}
